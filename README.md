@@ -40,16 +40,26 @@ I am a 21-year-old **Creative Technologist & Software Engineering student at the
 ## 🏆 Featured Flagship Project
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="100%">
-        <h3><a href="https://github.com/Javeriaf19/vaslkaar">🌟 VASLKAAR — The AI Freelancer OS</a></h3>
-        <p>An end-to-end creative & business platform that automatically turns design assets into <strong>Behance case studies</strong>, <strong>4-slide LinkedIn carousel decks</strong>, <strong>PDF invoices</strong>, <strong>CRM tracking</strong>, and <strong>live gig opportunities with 3-phase AI execution roadmaps</strong>.</p>
-        <p><strong>Stack:</strong> Vanilla JavaScript • Tailwind CSS • Groq SDK (LPU Inference) • html2canvas • jsPDF • Vercel Edge</p>
-        <p>
-          <a href="https://vaslkaar.vercel.app">🌐 <strong>Live Application</strong></a> • 
-          <a href="https://github.com/Javeriaf19/vaslkaar">📂 <strong>Source Code</strong></a>
-        </p>
+      <td width="100%" style="padding: 18px;">
+        <div align="center">
+          <h3><a href="https://github.com/Javeriaf19/vaslkaar">🌟 VASLKAAR — The All-In-One AI Freelancer OS</a></h3>
+          <p><em>Built from scratch in 5 days for Pixel Forge AI Hackathon 2026 🏆</em></p>
+          <p>
+            <a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/Live%20Application-vaslkaar.vercel.app-gold?style=for-the-badge" alt="Live Demo" /></a>
+            <a href="https://github.com/Javeriaf19/vaslkaar"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="Repository" /></a>
+            <a href="https://github.com/Javeriaf19/vaslkaar/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" alt="MIT License" /></a>
+          </p>
+        </div>
+        <p>A production-ready creative & business operating system designed for independent designers, video editors, and creators:</p>
+        <ul>
+          <li>🎨 <strong>Case Study & Copy Engine:</strong> Converts visual assets into complete Behance case studies, SEO packages & 3 LinkedIn post formats with 1-click publishing.</li>
+          <li>🖼️ <strong>4-Slide Document Studio:</strong> Auto-renders 4-slide Instagram/LinkedIn carousel decks with 2.5x high-res Retina PNG export.</li>
+          <li>💼 <strong>Business Suite:</strong> Client CRM with direct WhatsApp actions, auto-calculating multi-currency Invoices with client-side PDF export, and Payment Tracking.</li>
+          <li>🚀 <strong>Growth Radar & Ideas Lab:</strong> AI gig matcher with 100% verified live platform URLs & 3-phase execution roadmaps.</li>
+        </ul>
+        <p><strong>🛠️ Core Tech Stack:</strong> Vanilla JavaScript (ES6+) • Tailwind CSS • Groq SDK (LPU Hardware Acceleration) • html2canvas • jsPDF • Vercel Serverless Edge</p>
       </td>
     </tr>
   </table>
