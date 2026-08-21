@@ -1,150 +1,115 @@
-<h1 align="center">
-  Hi 👋, I'm Javeria Farhan
-</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Javeria Farhan</h1>
+  <p><strong>Creative Technologist • Software Engineering Student • Adobe Certified Designer • AI Builder</strong></p>
 
-<h3 align="center">
-  💻 Aspiring Software Engineer | 🎨 Adobe Certified Designer | 🤖 AI & Tech Enthusiast
-</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/javeriafarhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.behance.net/javeriafarhan1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+    <a href="mailto:javeriafarhan19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/Live%20SaaS-VASLKAAR-gold?style=for-the-badge" alt="VASLKAAR" /></a>
+    <img src="https://img.shields.io/badge/Made%20in-Pakistan%20🇵🇰-01411C?style=for-the-badge" alt="Pakistan" />
+  </p>
 
----
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=24&duration=3000&color=C9A84C&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+@+Virtual+University;Creative+Designer+%26+Video+Editor;Founder+of+VASLKAAR+Freelancer+OS;Building+Modern+AI+Powered+Products+🚀" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Creative+Designer+%26+Artist;AI+Tools+Explorer;Building+My+Tech+Journey+🚀" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Javeriaf19/Javeriaf19/main/avatar.png" width="260"/>" width="260"/>
+  <img src="https://raw.githubusercontent.com/Javeriaf19/Javeriaf19/main/avatar.png" width="230" alt="Javeria Farhan" />
 </p>
 
 ---
 
 ## 🌟 About Me
-🎓 Software Engineering Student
-🎨 Adobe Certified Graphic Designer  
-🤖 Passionate about AI, Tech & Creative Innovation  
-💻 Currently building strong programming foundations  
-🎬 Visual Artist, Video Editor & Digital Creator  
+
+I am a 21-year-old **Creative Technologist & Software Engineering student at the Virtual University of Pakistan** who bridges the gap between high-end visual design and full-stack software development.
+
+- 🎓 **Education:** 1st Year BS Software Engineering @ **Virtual University of Pakistan**
+- 💼 **Industry Experience:** Managing **2 international remote design roles** alongside active freelancing on Upwork & Fiverr.
+- 🚀 **Flagship Build:** Founder & Creator of **[VASLKAAR](https://github.com/Javeriaf19/vaslkaar)** — An AI-powered Freelancer Operating System built from scratch in 5 days for the **Pixel Forge AI Hackathon 2026**.
+- 💡 **Philosophy:** *"Design makes it intuitive; Code makes it work; AI makes it scalable."*
 
 ---
 
-## 🚀 Current Focus
-- 🔭 Improving programming fundamentals  
-- 🌱 Learning C++ / Python & problem solving  
-- 👯 Open to collaborations (tech + design)  
-- 🤔 Exploring real-world GitHub projects  
+## 🏆 Featured Flagship Project
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h3><a href="https://github.com/Javeriaf19/vaslkaar">🌟 VASLKAAR — The AI Freelancer OS</a></h3>
+        <p>An end-to-end creative & business platform that automatically turns design assets into <strong>Behance case studies</strong>, <strong>4-slide LinkedIn carousel decks</strong>, <strong>PDF invoices</strong>, <strong>CRM tracking</strong>, and <strong>live gig opportunities with 3-phase AI execution roadmaps</strong>.</p>
+        <p><strong>Stack:</strong> Vanilla JavaScript • Tailwind CSS • Groq SDK (LPU Inference) • html2canvas • jsPDF • Vercel Edge</p>
+        <p>
+          <a href="https://vaslkaar.vercel.app">🌐 <strong>Live Application</strong></a> • 
+          <a href="https://github.com/Javeriaf19/vaslkaar">📂 <strong>Source Code</strong></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-## 🛠️ Skills & Tools
 
+## 🛠️ Tech & Creative Stack
+
+### 💻 Programming & Frameworks
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,cpp,python,git,github,vscode" />
+</p>
 
-<!-- Development -->
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" /><br/>
+### 🎨 Creative Suite & Video
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects" />
+</p>
 
-<!-- Design -->
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" /><br/>
-
+### 🤖 AI Engineering & Inference
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq_SDK-F59E0B?style=for-the-badge&logo=groq&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT_OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI_Workflows-6366F1?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🎨 Creative Suite
+## 📊 GitHub Stats & Streaks
+
 <p align="center">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/PicsArt-%23FF69B4?style=for-the-badge&logo=picsart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-%239999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black"/>
-<img src="https://img.shields.io/badge/CapCut-%23000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaf19&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤖 AI & Tech Tools
+## 🐍 Contribution Graph
+
 <p align="center">
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot"/>
-<img src="https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Veo_AI-5A0FC8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Notion_AI-000000?style=for-the-badge&logo=notion"/>
+  <img src="https://raw.githubusercontent.com/Javeriaf19/Javeriaf19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 📊 Productivity
+## 🌐 Let's Connect & Collaborate
+
 <p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint"/>
-<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets"/>
-<img src="https://img.shields.io/badge/Google_Slides-FBBC05?style=for-the-badge&logo=googleslides"/>
-</p>
-
----
-
-### 🌐 Digital & Tech Tools
-<p align="center">
-<img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chrome_DevTools-FCC624?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</p>
-
----
-
-### 🧠 Learning & Research Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/YouTube_Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Research_Tools-10A37F?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Javeriaf19/Javeriaf19/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Vision
-To build a powerful career combining  
-💻 Software Engineering + 🤖 AI + 🎨 Creativity  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:javeriafarhan19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/javeriafarhan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://www.behance.net/javeriafarhan1">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
+  <a href="mailto:javeriafarhan19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-⭐ *"Discipline + Creativity + Consistency = My Growth Formula"*
+<div align="center">
+  <br />
+  <p>⭐ <em>"Discipline + Aesthetic Intuition + Consistent Execution = Impact"</em></p>
+  <p><strong>Built with ❤️ in Pakistan 🇵🇰</strong></p>
+</div>
