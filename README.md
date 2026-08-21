@@ -21,12 +21,19 @@
 
 ## 🌟 About Me
 
-I am a 21-year-old **Creative Technologist & Software Engineering student at the Virtual University of Pakistan** who bridges the gap between high-end visual design and full-stack software development.
+I am a 21-year-old **Creative Technologist & Software Engineering student at the Virtual University of Pakistan** who bridges the gap between high-end visual design, full-stack software systems, and AI engineering.
 
+### 🎓 Academic & Professional Background
 - 🎓 **Education:** 1st Year BS Software Engineering @ **Virtual University of Pakistan**
-- 💼 **Industry Experience:** Managing **2 international remote design roles** alongside active freelancing on Upwork & Fiverr.
-- 🚀 **Flagship Build:** Founder & Creator of **[VASLKAAR](https://github.com/Javeriaf19/vaslkaar)** — An AI-powered Freelancer Operating System built from scratch in 5 days for the **Pixel Forge AI Hackathon 2026**.
-- 💡 **Philosophy:** *"Design makes it intuitive; Code makes it work; AI makes it scalable."*
+- 💼 **Industry Experience:** Managing **2 international remote design & media roles** alongside active freelancing on Upwork & Fiverr.
+- 🚀 **Flagship Build:** Founder & Architect of **[VASLKAAR](https://github.com/Javeriaf19/vaslkaar)** — An AI-powered Freelancer Operating System built in 5 days for the **Pixel Forge AI Hackathon 2026**.
+
+### 💻 Technical Perspective & Engineering Focus
+- ⚡ **Full-Stack Web Systems:** Specializing in performant, zero-bloat Single Page Applications (SPAs), modular component architectures, client-side state persistence, and serverless Edge functions.
+- 🤖 **Applied AI & LLM Integration:** Hands-on expertise with high-throughput inference APIs (Groq SDK, LPU hardware acceleration, OpenAI & Qwen models), robust JSON schema parsing, and agentic AI workflows.
+- 🎨 **Client-Side Graphics & Document Engines:** Engineering vector-to-PNG rasterization (`html2canvas`), automated PDF invoice compilers (`jsPDF`), HTML5 Canvas color extraction, and Web Speech APIs.
+- 📚 **Computer Science Foundations:** Actively mastering Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Software Design Patterns, and Clean Code principles.
+- 💡 **Engineering Philosophy:** *"Design makes it intuitive; Code makes it robust; AI makes it scalable."*
 
 ---
 
