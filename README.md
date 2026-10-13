@@ -79,14 +79,18 @@ Exploring robotics now, with early ideas and learning in public.
 
 ## Certifications & Achievements
 
-<!-- Add each credential's link from your LinkedIn Licenses & certifications section -->
+<p align="center">
+  <a href="https://devpost.com/software/vaslkaar-the-all-in-one-ai-freelancer-os"><img src="https://img.shields.io/badge/Pixel_Forge_AI_Hackathon_2026-Devpost-E0457B?style=for-the-badge&logo=devpost&logoColor=white" alt="Pixel Forge AI Hackathon 2026" /></a>
+  <a href="https://www.credly.com/badges/c1d177ca-bb5b-469e-8c7a-e1e9b1ed41b5/public_url"><img src="https://img.shields.io/badge/IBM-AI_Essentials_V2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Artificial Intelligence Essentials V2" /></a>
+  <a href="https://www.credly.com/badges/69fda463-8bf8-45ba-bdd0-5109a0ea9800/public_url"><img src="https://img.shields.io/badge/Cisco-C++_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco C++ Essentials 1" /></a>
+  <a href="https://quiz.ideagist.com/ideagist-certificate?cert_hash=8ca12c00d3a1f031"><img src="https://img.shields.io/badge/Pak_Angels-Gen_AI_App_Developer-B01650?style=for-the-badge" alt="Gen AI Application Developer Certificate" /></a>
+</p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Adobe_Certified-Designer-B01650?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Designer" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/IDR-Design_Merit_Winner-C9B3F2?style=for-the-badge" alt="IDR Design Merit Winner" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-Certified-000000?style=for-the-badge" alt="Generative AI Certified" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HEC_AI_Training-Participant-B01650?style=for-the-badge" alt="HEC AI Training participant" /></a>
-  <a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/Pixel_Forge_AI_Hackathon_2026-Builder-C9B3F2?style=for-the-badge" alt="Pixel Forge AI Hackathon 2026 builder" /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/8564170b-15f0-4e59-b414-d97a8ae94234/badges/13753814"><img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Generative AI" /></a>
+  <a href="https://www.linkedin.com/in/javeriafarhan/overlay/Certifications/151942224/treasury/?profileId=ACoAAEJJQ4IBugW5NJUClw8bcGqd8CIeYnseXXs"><img src="https://img.shields.io/badge/IDR-Design_Merit_Winner-C9B3F2?style=for-the-badge" alt="IDR Design Merit Winner" /></a>
+  <a href="https://www.linkedin.com/in/javeriafarhan/details/certifications/"><img src="https://img.shields.io/badge/Adobe_Certified-Designer-B01650?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Designer" /></a>
+  <a href="https://www.linkedin.com/in/javeriafarhan/details/certifications/"><img src="https://img.shields.io/badge/HEC_AI_Training-Participant-0A0A0A?style=for-the-badge" alt="HEC AI Training participant" /></a>
 </p>
 
 ## GitHub Stats & Streaks
