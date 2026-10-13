@@ -4,7 +4,7 @@
 
 <a href="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products" alt="Typing animation" /></a>
 
-<p>Hi, I'm Javeria Farhan, a brand designer and product designer and a Software Engineering student at Virtual University of Pakistan.</p>
+<h3>Hi, I'm Javeria Farhan, a brand designer and product designer and a Software Engineering student at Virtual University of Pakistan.</h3>
 
 <a href="https://javeriafarhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/javeriafarhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -37,9 +37,10 @@
 
 ## Featured
 
-<div align="center">
-<a href="https://github.com/Javeriaf19/vaslkaar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeriaf19&repo=vaslkaar&theme=tokyonight&hide_border=true" alt="VASLKAAR repository" /></a>
-</div>
+<p align="center">
+  <a href="https://vaslkaar.vercel.app"><img src="assets/vaslkaar-logo.svg" height="150" alt="VASLKAAR Logo" /></a>
+  <a href="https://github.com/Javeriaf19/vaslkaar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeriaf19&repo=vaslkaar&bg_color=0A0A0A&title_color=E0457B&text_color=FFFFFF&icon_color=C9B3F2&border_color=2A222F" height="150" alt="VASLKAAR repository" /></a>
+</p>
 
 **VASLKAAR** is an AI-powered operating system for freelancers. It turns creative work into case studies and carousel decks, and handles invoices, a client CRM and AI roadmaps. I built it solo in 5 days for the Pixel Forge AI Hackathon 2026. [Live demo](https://vaslkaar.vercel.app)
 
@@ -76,6 +77,18 @@
 
 Exploring robotics now, with early ideas and learning in public.
 
+## Certifications & Achievements
+
+<!-- Add each credential's link from your LinkedIn Licenses & certifications section -->
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_Certified-Designer-B01650?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Designer" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/IDR-Design_Merit_Winner-C9B3F2?style=for-the-badge" alt="IDR Design Merit Winner" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-Certified-000000?style=for-the-badge" alt="Generative AI Certified" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HEC_AI_Training-Participant-B01650?style=for-the-badge" alt="HEC AI Training participant" /></a>
+  <a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/Pixel_Forge_AI_Hackathon_2026-Builder-C9B3F2?style=for-the-badge" alt="Pixel Forge AI Hackathon 2026 builder" /></a>
+</p>
+
 ## GitHub Stats & Streaks
 
 <p align="center">
@@ -85,6 +98,16 @@ Exploring robotics now, with early ideas and learning in public.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaf19&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://javeriafarhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/javeriafarhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/javeriafarhan1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/VASLKAAR-Live_demo-B01650?style=for-the-badge&logo=vercel&logoColor=white" alt="VASLKAAR live demo" /></a>
+  <a href="mailto:javeriafarhan19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## Contribution Graph
@@ -98,5 +121,9 @@ Exploring robotics now, with early ideas and learning in public.
 *Design makes it intuitive. Code makes it robust. AI makes it scalable.*
 
 Open to design collaborations, remote design or front-end internships, and open source.
+
+<br>
+
+<img src="assets/footer.svg" alt="Pink to purple wave footer" width="100%" />
 
 </div>
