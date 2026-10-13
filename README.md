@@ -60,12 +60,12 @@ Exploring robotics now, with early ideas and learning in public.
 ## GitHub Stats & Streaks
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaf19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaf19&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ## Contribution Graph
