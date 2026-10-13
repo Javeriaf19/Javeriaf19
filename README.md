@@ -2,20 +2,32 @@
 
 <img src="assets/header.svg" alt="Javeria Farhan, designer who can code" width="100%" />
 
-<a href="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Founder+of+VASLKAAR+Freelancer+OS;Building+Modern+AI+Powered+Products"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Founder+of+VASLKAAR+Freelancer+OS;Building+Modern+AI+Powered+Products" alt="Typing animation" /></a>
+<a href="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products" alt="Typing animation" /></a>
 
-<br>
+<p>Hi, I'm Javeria Farhan, a brand designer and product designer and a Software Engineering student at Virtual University of Pakistan.</p>
 
 <a href="https://javeriafarhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/javeriafarhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.behance.net/javeriafarhan1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-<a href="https://vaslkaar.vercel.app"><img src="https://img.shields.io/badge/VASLKAAR-Live_demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VASLKAAR live demo" /></a>
 <a href="mailto:javeriafarhan19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <!-- Instagram badge: add when @javeriafarhan is live
 <a href="https://instagram.com/javeriafarhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 -->
 
 </div>
+
+<br>
+
+## About Me
+
+- **Hacktoberfest 2026:** Taking part in both the online events and the Fest hack days.
+- **[VASLKAAR](https://vaslkaar.vercel.app):** Built an AI-powered operating system for freelancers solo in 5 days for the Pixel Forge AI Hackathon 2026. [Repository](https://github.com/Javeriaf19/vaslkaar)
+- **HEC AI Training:** Took part in 2 hackathons during the programme.
+- **[MLAB.pk](https://mlab.pk):** Full-time remote graphic designer and video editor since 2025.
+- **NoteyStuff:** Project-based brand and product designer: branding, stationery, packaging and social media.
+- **Rewriting the Code:** Active member of the community for women in tech.
+- **Design:** Designing since 2020, starting with free thumbnails and posters. Portfolio: [javeriafarhan.me](https://javeriafarhan.me)
+- **Building:** AI-powered products with JavaScript, Python and AI APIs, using AI-assisted development. Exploring robotics, with early ideas of my own.
 
 <br>
 
@@ -44,7 +56,7 @@
 <h3 align="center">Creative Suite & Video</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,au,lr,blender&perline=9" alt="Creative tools" />
+  <img src="assets/creative-tools.svg" alt="Creative tools" />
 </p>
 
 <h3 align="center">AI Engineering & Inference</h3>
