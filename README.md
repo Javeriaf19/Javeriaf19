@@ -35,21 +35,28 @@
 
 ## Tech & Creative Stack
 
-### Programming & Frameworks
+<h3 align="center">Programming & Frameworks</h3>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,cpp,python,git,github,vscode" alt="Programming tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,python,cpp,vercel,git,github,vscode&perline=13" alt="Programming tools" />
+</p>
 
-### Creative Suite & Video
+<h3 align="center">Creative Suite & Video</h3>
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects" alt="Creative tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,au,lr,blender&perline=9" alt="Creative tools" />
+</p>
 
-### AI Engineering & Inference
+<h3 align="center">AI Engineering & Inference</h3>
 
-<img src="https://img.shields.io/badge/Groq_SDK-F59E0B?style=for-the-badge&logo=groq&logoColor=black" alt="Groq SDK" />
-<img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-<img src="https://img.shields.io/badge/ChatGPT_OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT OpenAI" />
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Agentic_AI_Workflows-6366F1?style=for-the-badge" alt="Agentic AI Workflows" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq_SDK-F59E0B?style=for-the-badge&logo=groq&logoColor=black" alt="Groq SDK" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/ChatGPT_OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Agentic_AI_%26_MCP-6366F1?style=for-the-badge" alt="Agentic AI & MCP" />
+</p>
 
 ## Journey
 
