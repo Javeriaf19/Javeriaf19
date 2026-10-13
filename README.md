@@ -2,9 +2,9 @@
 
 <img src="assets/header.svg" alt="Javeria Farhan, designer who can code" width="100%" />
 
-<a href="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Creative+Designer+%26+Video+Editor;Building+Modern+AI+Powered+Products" alt="Typing animation" /></a>
+<a href="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Building+Modern+AI+Powered+Products"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&color=E0457B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Virtual+University;Building+Modern+AI+Powered+Products" alt="Typing animation" /></a>
 
-<h3>Hi, I'm Javeria Farhan, a brand designer and product designer and a Software Engineering student at Virtual University of Pakistan.</h3>
+<h3>Hi, I'm Javeria Farhan, a brand and product designer, and a Software Engineering student at Virtual University of Pakistan.</h3>
 
 <a href="https://javeriafarhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/javeriafarhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -44,6 +44,12 @@
 
 **VASLKAAR** is an AI-powered operating system for freelancers. It turns creative work into case studies and carousel decks, and handles invoices, a client CRM and AI roadmaps. I built it solo in 5 days for the Pixel Forge AI Hackathon 2026. [Live demo](https://vaslkaar.vercel.app)
 
+<p align="center">
+  <a href="https://github.com/Javeriaf19/awesome-mcp-for-creatives"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeriaf19&repo=awesome-mcp-for-creatives&bg_color=0A0A0A&title_color=E0457B&text_color=FFFFFF&icon_color=C9B3F2&border_color=2A222F" height="150" alt="awesome-mcp-for-creatives repository" /></a>
+</p>
+
+**[awesome-mcp-for-creatives](https://github.com/Javeriaf19/awesome-mcp-for-creatives)** is a curated, open-source directory of Model Context Protocol (MCP) servers, tools, and workflows designed specifically for creative technologists, designers, and indie builders.
+
 <!-- Add new projects here in the same format -->
 
 ## Tech & Creative Stack
@@ -51,7 +57,7 @@
 <h3 align="center">Programming & Frameworks</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,python,cpp,vercel,git,github,vscode&perline=13" alt="Programming tools" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,python,cpp,vercel,git,github,vscode&perline=11" alt="Programming tools" />
 </p>
 
 <h3 align="center">Creative Suite & Video</h3>
@@ -80,24 +86,32 @@ Exploring robotics now, with early ideas and learning in public.
 ## Certifications & Achievements
 
 <p align="center">
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://devpost.com/software/vaslkaar-the-all-in-one-ai-freelancer-os"><img src="https://img.shields.io/badge/Pixel_Forge_AI_Hackathon_2026-Devpost-E0457B?style=for-the-badge&logo=devpost&logoColor=white" alt="Pixel Forge AI Hackathon 2026" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.credly.com/badges/c1d177ca-bb5b-469e-8c7a-e1e9b1ed41b5/public_url"><img src="https://img.shields.io/badge/IBM-AI_Essentials_V2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Artificial Intelligence Essentials V2" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.credly.com/badges/69fda463-8bf8-45ba-bdd0-5109a0ea9800/public_url"><img src="https://img.shields.io/badge/Cisco-C++_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco C++ Essentials 1" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://quiz.ideagist.com/ideagist-certificate?cert_hash=8ca12c00d3a1f031"><img src="https://img.shields.io/badge/Pak_Angels-Gen_AI_App_Developer-B01650?style=for-the-badge" alt="Gen AI Application Developer Certificate" /></a>
 </p>
 
 <p align="center">
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.cloudskillsboost.google/public_profiles/8564170b-15f0-4e59-b414-d97a8ae94234/badges/13753814"><img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Generative AI" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.linkedin.com/in/javeriafarhan/overlay/Certifications/151942224/treasury/?profileId=ACoAAEJJQ4IBugW5NJUClw8bcGqd8CIeYnseXXs"><img src="https://img.shields.io/badge/IDR-Design_Merit_Winner-C9B3F2?style=for-the-badge" alt="IDR Design Merit Winner" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.linkedin.com/in/javeriafarhan/details/certifications/"><img src="https://img.shields.io/badge/Adobe_Certified-Designer-B01650?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Designer" /></a>
+  <!-- TODO: link to credential URL (owner to provide) -->
   <a href="https://www.linkedin.com/in/javeriafarhan/details/certifications/"><img src="https://img.shields.io/badge/HEC_AI_Training-Participant-0A0A0A?style=for-the-badge" alt="HEC AI Training participant" /></a>
 </p>
 
 ## GitHub Stats & Streaks
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Javeriaf19&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=prs,issues,contribs&bg_color=000000&title_color=E0457B&icon_color=C9B3F2&text_color=E5E5E5" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javeriaf19&background=000000&ring=E0457B&fire=C9B3F2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0457B&sideLabels=B4ADBF&dates=B4ADBF&hide_border=true" height="155" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -128,6 +142,6 @@ Open to design collaborations, remote design or front-end internships, and open 
 
 <br>
 
-<img src="assets/footer.svg" alt="Pink to purple wave footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=B01650,E0457B,C9B3F2&height=120&section=footer&text=Lets%20build%20something%20meaningful&fontSize=24&fontColor=ffffff" alt="Lets build something meaningful footer" width="100%" />
 
 </div>
