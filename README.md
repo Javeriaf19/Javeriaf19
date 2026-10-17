@@ -21,6 +21,7 @@
 ## About Me
 
 - **Hacktoberfest 2026:** Taking part in both the online events and the Fest hack days.
+- **[SafarGuard](https://safar-guard.vercel.app):** Built Pakistan's first autonomous winter highway safety radar and collision prevention system for Hacktoberfest Hack Day Lahore × AWS Student Builder Group. [Repository](https://github.com/Javeriaf19/SafarGuard)
 - **[VASLKAAR](https://vaslkaar.vercel.app):** Built an AI-powered operating system for freelancers solo in 5 days for the Pixel Forge AI Hackathon 2026. [Repository](https://github.com/Javeriaf19/vaslkaar)
 - **HEC AI Training:** Took part in 2 hackathons during the programme.
 - **[MLAB.pk](https://mlab.pk):** Full-time remote graphic designer and video editor since 2025.
@@ -36,6 +37,13 @@
 <br>
 
 ## Featured
+
+<p align="center">
+  <a href="https://safar-guard.vercel.app"><img src="assets/safarguard_master_logo.png" height="150" alt="SafarGuard Logo" /></a>
+  <a href="https://github.com/Javeriaf19/SafarGuard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeriaf19&repo=SafarGuard&bg_color=0A0A0A&title_color=38BDF8&text_color=FFFFFF&icon_color=06B6D4&border_color=1E293B" height="150" alt="SafarGuard repository" /></a>
+</p>
+
+**SafarGuard** is an autonomous winter highway safety radar and collision prevention engine for Pakistan's fog corridors (M-2, M-11, GT Road). It integrates AASHTO Stopping Sight Distance (SSD) physics with real-time Punjab telemetry, Night HUD driver guidance, and an urgent Roman Urdu audio beacon to prevent mass pileups before they happen. Built for Hacktoberfest Hack Day Lahore × AWS Student Builder Group. [Live Web App](https://safar-guard.vercel.app) · [AI Core](https://safarguard.streamlit.app) · [Demo Video](https://drive.google.com/file/d/10WbkxA8PQZYgdati7mDP6A3NZOF2tSXM/view?usp=sharing)
 
 <p align="center">
   <a href="https://vaslkaar.vercel.app"><img src="assets/vaslkaar-logo.svg" height="150" alt="VASLKAAR Logo" /></a>
